@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_oz_libs'
+
+include ':app'
